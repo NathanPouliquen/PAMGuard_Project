@@ -1,0 +1,528 @@
+######     Analysis and classification for each file in the dataset     ######
+
+file : B001_01.wav with 36 clicks, ratio = 20 & NO whistles detected => SW.
+file : B001_02.wav with 138 clicks, ratio = -7 & NO whistles detected => SD.
+file : B001_03.wav with 105 clicks, ratio = 386 & NO whistles detected => SW.
+file : B001_04.wav with 32 clicks, ratio = 49 & NO whistles detected => SW.
+file : B001_05.wav with 69 clicks, ratio = 136 & NO whistles detected => SW.
+file : B003_05.wav with no labels => Unclassified.
+file : B004_03.wav with no labels => Unclassified.
+file : B004_04.wav with no labels => Unclassified.
+file : B005_03.wav with 6 clicks, ratio = 4 & NO whistles detected => SW.
+file : B005_04.wav with no labels => Unclassified.
+file : B005_07.wav with 4 clicks, ratio = 10 & NO whistles detected => SW.
+file : B008_04.wav with no labels => Unclassified.
+file : B010_07.wav with 3 clicks, ratio = 4 & NO whistles detected => SW.
+file : B013_07.wav with 5 clicks, ratio = 8 & NO whistles detected => SW.
+file : B014_04.wav with 6 clicks, ratio = 4 & NO whistles detected => SW.
+file : B014_05.wav with 5 clicks, ratio = 18 & NO whistles detected => SW.
+file : B014_06.wav with no labels => Unclassified.
+file : B017_07.wav with 23 clicks, ratio = 2 & NO whistles detected => SW.
+file : B017_08.wav with no labels => Unclassified.
+file : B018_02.wav with no labels => Unclassified.
+file : B018_04.wav with no labels => Unclassified.
+file : B018_05.wav with no labels => Unclassified.
+file : B018_07.wav with 3 clicks, ratio = -15 & NO whistles detected => SD.
+file : B019_02.wav with 13 clicks, ratio = 4 & NO whistles detected => SW.
+file : B019_03.wav with 11 clicks, ratio = -3 & NO whistles detected => SD.
+file : B019_04.wav with 8 clicks, ratio = 8 & NO whistles detected => SW.
+file : B019_05.wav with 8 clicks, ratio = -30 & NO whistles detected => SD.
+file : B019_07.wav with no labels => Unclassified.
+file : B020_05.wav with no labels => Unclassified.
+file : B020_06.wav with no labels => Unclassified.
+file : B021_01.wav with 4 clicks, ratio = -15 & NO whistles detected => SD.
+file : B021_02.wav with 18 clicks, ratio = -5 & NO whistles detected => SD.
+file : B021_04.wav with no labels => Unclassified.
+file : B021_06.wav with no labels => Unclassified.
+file : B021_07.wav with no labels => Unclassified.
+file : B024_01.wav with 10 clicks, ratio = 40 & NO whistles detected => SW.
+file : B024_02.wav with 24 clicks, ratio = -15 & NO whistles detected => SD.
+file : B024_04.wav with no labels => Unclassified.
+file : B024_05.wav with no labels => Unclassified.
+file : B025_05.wav with 4 clicks, ratio = -15 & NO whistles detected => SD.
+file : B025_06.wav with no labels => Unclassified.
+file : B026_02.wav with 6 clicks, ratio = 8 & NO whistles detected => SW.
+file : B026_07.wav with 5 clicks, ratio = 8 & NO whistles detected => SW.
+file : B027_05.wav with 5 clicks, ratio = 4 & NO whistles detected => SW.
+file : B028_01.wav with 10 clicks, ratio = -7 & NO whistles detected => SD.
+file : B029_05.wav with 7 clicks, ratio = -15 & NO whistles detected => SD.
+file : B030_01.wav with 103 clicks, ratio = 162 & NO whistles detected => SW.
+file : B030_02.wav with 148 clicks, ratio = 177 & NO whistles detected => SW.
+file : B030_03.wav with 142 clicks, ratio = 118 & NO whistles detected => SW.
+file : B030_04.wav with 95 clicks, ratio = -3 & NO whistles detected => SD.
+file : B030_05.wav with 83 clicks, ratio = -22 & NO whistles detected => SD.
+file : B030_06.wav with 30 clicks, ratio = 36 & NO whistles detected => SW.
+file : B030_07.wav with 21 clicks, ratio = 57 & NO whistles detected => SW.
+file : B030_08.wav with 46 clicks, ratio = 39 & NO whistles detected => SW.
+file : B030_09.wav with 31 clicks, ratio = 50 & NO whistles detected => SW.
+file : B030_10.wav with 21 clicks, ratio = 74 & NO whistles detected => SW.
+file : B031_03.wav with 11 clicks, ratio = 4 & NO whistles detected => SW.
+file : B031_04.wav with 2 clicks, ratio = -15 & NO whistles detected => SD.
+file : B032_04.wav with 7 clicks, ratio = -15 & NO whistles detected => SD.
+file : B032_05.wav with no labels => Unclassified.
+file : B032_06.wav with no labels => Unclassified.
+file : B035_06.wav with 30 clicks, ratio = -5 & NO whistles detected => SD.
+file : B035_07.wav with 7 clicks, ratio = 6 & NO whistles detected => SW.
+file : B036_02.wav with 6 clicks, ratio = -5 & NO whistles detected => SD.
+file : B037_05.wav with 69 clicks, ratio = 65 & NO whistles detected => SW.
+file : B041_03.wav with no labels => Unclassified.
+file : B041_04.wav with no labels => Unclassified.
+file : B042_07.wav with 4 clicks, ratio = 4 & NO whistles detected => SW.
+file : B044_04.wav with 6 clicks, ratio = 8 & NO whistles detected => SW.
+file : B044_05.wav with no labels => Unclassified.
+file : B046_07.wav with 19 clicks, ratio = -4 & NO whistles detected => SD.
+file : B049_01.wav with 7 clicks, ratio = 7 & NO whistles detected => SW.
+file : B049_05.wav with 51 clicks, ratio = 25 & NO whistles detected => SW.
+file : B049_08.wav with no labels => Unclassified.
+file : B049_09.wav with 19 clicks, ratio = 12 & NO whistles detected => SW.
+file : B050_01.wav with no labels => Unclassified.
+file : B050_04.wav with 8 clicks, ratio = 19 & NO whistles detected => SW.
+file : B051_04.wav with no labels => Unclassified.
+file : B053_03.wav with no labels => Unclassified.
+file : B054_03.wav with 43 clicks, ratio = 122 & NO whistles detected => SW.
+file : B054_04.wav with 13 clicks, ratio = -1 & NO whistles detected => SD.
+file : B054_05.wav with 13 clicks, ratio = -7 & NO whistles detected => SD.
+file : B056_02.wav with no labels => Unclassified.
+file : B057_03.wav with 20 clicks, ratio = -38 & NO whistles detected => SD.
+file : B057_05.wav with 10 clicks, ratio = 14 & NO whistles detected => SW.
+file : B059_04.wav with no labels => Unclassified.
+file : B059_05.wav with no labels => Unclassified.
+file : B065_03.wav with 12 clicks, ratio = 3 & NO whistles detected => SW.
+file : B065_04.wav with 12 clicks, ratio = 9 & NO whistles detected => SW.
+file : B067_03.wav with 14 clicks, ratio = -15 & NO whistles detected => SD.
+file : B067_07.wav with no labels => Unclassified.
+file : B068_02.wav with no labels => Unclassified.
+file : B068_07.wav with 6 clicks, ratio = 8 & NO whistles detected => SW.
+file : B069_01.wav with 17 clicks, ratio = -27 & NO whistles detected => SD.
+file : B069_05.wav with 8 clicks, ratio = 4 & NO whistles detected => SW.
+file : B069_10.wav with 27 clicks, ratio = 26 & NO whistles detected => SW.
+file : B071_01.wav with 3 clicks, ratio = 15 & NO whistles detected => SW.
+file : B072_08.wav with 37 clicks, ratio = 136 & NO whistles detected => SW.
+file : B072_09.wav with 25 clicks, ratio = 75 & NO whistles detected => SW.
+file : B072_10.wav with 33 clicks, ratio = 98 & NO whistles detected => SW.
+file : B073_01.wav with 16 clicks, ratio = 30 & NO whistles detected => SW.
+file : B073_02.wav with 13 clicks, ratio = 28 & NO whistles detected => SW.
+file : B073_03.wav with 7 clicks, ratio = 45 & NO whistles detected => SW.
+file : B073_05.wav with 8 clicks, ratio = 0 & NO whistles detected => Both.
+file : B073_06.wav with 9 clicks, ratio = 19 & NO whistles detected => SW.
+file : B073_07.wav with no labels => Unclassified.
+file : B073_08.wav with 15 clicks, ratio = 45 & NO whistles detected => SW.
+file : B073_09.wav with 16 clicks, ratio = 7 & NO whistles detected => SW.
+file : B075_06.wav with 89 clicks, ratio = -2 & NO whistles detected => SD.
+file : B075_07.wav with 20 clicks, ratio = 19 & NO whistles detected => SW.
+file : B075_08.wav with 39 clicks, ratio = 13 & NO whistles detected => SW.
+file : B075_09.wav with 39 clicks, ratio = 24 & NO whistles detected => SW.
+file : B075_10.wav with 8 clicks, ratio = -1 & NO whistles detected => SD.
+file : B076_06.wav with no labels => Unclassified.
+file : B076_07.wav with 5 clicks, ratio = 10 & NO whistles detected => SW.
+file : B077_05.wav with 42 clicks, ratio = 15 & NO whistles detected => SW.
+file : B077_06.wav with 61 clicks, ratio = 65 & NO whistles detected => SW.
+file : B078_03.wav with 3 clicks, ratio = 4 & NO whistles detected => SW.
+file : B078_05.wav with no labels => Unclassified.
+file : B078_07.wav with no labels => Unclassified.
+file : B080_04.wav with no labels => Unclassified.
+file : B080_06.wav with 3 clicks, ratio = -15 & NO whistles detected => SD.
+file : B080_07.wav with 5 clicks, ratio = 2 & NO whistles detected => SW.
+file : B084_01.wav with 16 clicks, ratio = 0 & NO whistles detected => Both.
+file : B084_02.wav with no labels => Unclassified.
+file : B085_01.wav with no labels => Unclassified.
+file : B085_03.wav with no labels => Unclassified.
+file : B088_05.wav with 21 clicks, ratio = -13 & NO whistles detected => SD.
+file : B088_10.wav with 14 clicks, ratio = -27 & NO whistles detected => SD.
+file : B091_03.wav with 54 clicks, ratio = -32 & NO whistles detected => SD.
+file : B091_05.wav with 54 clicks, ratio = 9 & NO whistles detected => SW.
+file : B091_06.wav with 40 clicks, ratio = -20 & NO whistles detected => SD.
+file : B091_08.wav with 37 clicks, ratio = -18 & NO whistles detected => SD.
+file : B091_09.wav with 29 clicks, ratio = 13 & NO whistles detected => SW.
+file : B095_01.wav with 27 clicks, ratio = 13 & NO whistles detected => SW.
+file : B095_02.wav with 44 clicks, ratio = -47 & NO whistles detected => SD.
+file : B095_03.wav with 33 clicks, ratio = 75 & NO whistles detected => SW.
+file : B095_04.wav with no labels => Unclassified.
+file : B095_05.wav with 34 clicks, ratio = 149 & NO whistles detected => SW.
+file : B095_06.wav with 13 clicks, ratio = 10 & NO whistles detected => SW.
+file : B095_10.wav with 29 clicks, ratio = -15 & NO whistles detected => SD.
+file : B096_02.wav with no labels => Unclassified.
+file : B096_03.wav with no labels => Unclassified.
+file : B096_04.wav with 15 clicks, ratio = -33 & NO whistles detected => SD.
+file : B096_06.wav with 10 clicks, ratio = 6 & NO whistles detected => SW.
+file : B097_01.wav with 12 clicks, ratio = 4 & NO whistles detected => SW.
+file : B097_02.wav with no labels => Unclassified.
+file : B097_03.wav with 14 clicks, ratio = -5 & NO whistles detected => SD.
+file : B097_07.wav with no labels => Unclassified.
+file : B098_05.wav with 6 clicks, ratio = 8 & NO whistles detected => SW.
+file : B100_06.wav with 9 clicks, ratio = -15 & NO whistles detected => SD.
+file : B100_07.wav with no labels => Unclassified.
+file : B100_08.wav with 8 clicks, ratio = 4 & NO whistles detected => SW.
+file : B101_02.wav with no labels => Unclassified.
+file : B101_06.wav with 3 clicks, ratio = -11 & NO whistles detected => SD.
+file : B102_01.wav with 13 clicks, ratio = 16 & NO whistles detected => SW.
+file : B102_02.wav with 17 clicks, ratio = 45 & NO whistles detected => SW.
+file : B102_03.wav with 10 clicks, ratio = 4 & NO whistles detected => SW.
+file : B102_04.wav with 14 clicks, ratio = 35 & NO whistles detected => SW.
+file : B102_06.wav with 39 clicks, ratio = 213 & NO whistles detected => SW.
+file : B102_07.wav with 10 clicks, ratio = 14 & NO whistles detected => SW.
+file : B102_08.wav with 8 clicks, ratio = 22 & NO whistles detected => SW.
+file : B102_09.wav with 18 clicks, ratio = -2 & NO whistles detected => SD.
+file : B102_10.wav with 13 clicks, ratio = 33 & NO whistles detected => SW.
+file : B103_04.wav with no labels => Unclassified.
+file : B103_06.wav with 2 clicks, ratio = 4 & NO whistles detected => SW.
+file : B104_02.wav with 9 clicks, ratio = 20 & NO whistles detected => SW.
+file : B105_04.wav with no labels => Unclassified.
+file : B105_06.wav with no labels => Unclassified.
+file : B106_01.wav with 20 clicks, ratio = 3 & NO whistles detected => SW.
+file : B107_06.wav with no labels => Unclassified.
+file : B107_07.wav with no labels => Unclassified.
+file : B108_01.wav with 132 clicks, ratio = 9 & NO whistles detected => SW.
+file : B108_02.wav with 32 clicks, ratio = 26 & NO whistles detected => SW.
+file : B108_03.wav with 63 clicks, ratio = -28 & NO whistles detected => SD.
+file : B109_04.wav with no labels => Unclassified.
+file : B109_05.wav with 19 clicks, ratio = 25 & NO whistles detected => SW.
+file : B109_06.wav with 7 clicks, ratio = 20 & NO whistles detected => SW.
+file : B109_09.wav with 24 clicks, ratio = 23 & NO whistles detected => SW.
+file : B111_10.wav with 35 clicks, ratio = 115 & NO whistles detected => SW.
+file : B112_05.wav with 2 clicks, ratio = 4 & NO whistles detected => SW.
+file : B113_05.wav with 14 clicks, ratio = 10 & NO whistles detected => SW.
+file : B113_07.wav with no labels => Unclassified.
+file : B113_08.wav with no labels => Unclassified.
+file : B114_03.wav with no labels => Unclassified.
+file : B116_08.wav with 21 clicks, ratio = -17 & NO whistles detected => SD.
+file : B117_03.wav with 43 clicks, ratio = 23 & NO whistles detected => SW.
+file : B117_04.wav with 32 clicks, ratio = -3 & NO whistles detected => SD.
+file : B117_05.wav with 60 clicks, ratio = 16 & NO whistles detected => SW.
+file : B121_03.wav with no labels => Unclassified.
+file : B124_02.wav with 24 clicks, ratio = -1 & whistles detected => SD.
+file : B124_03.wav with 48 clicks, ratio = 36 & NO whistles detected => SW.
+file : B124_07.wav with 14 clicks, ratio = -15 & whistles detected => SD.
+file : B125_06.wav with 2 clicks, ratio = 4 & NO whistles detected => SW.
+file : B126_03.wav with 56 clicks, ratio = -11 & NO whistles detected => SD.
+file : B128_07.wav with 17 clicks, ratio = 16 & NO whistles detected => SW.
+file : B129_01.wav with 11 clicks, ratio = -6 & NO whistles detected => SD.
+file : B130_02.wav with 12 clicks, ratio = 4 & NO whistles detected => SW.
+file : B130_04.wav with 22 clicks, ratio = -18 & NO whistles detected => SD.
+file : B130_06.wav with 25 clicks, ratio = -15 & NO whistles detected => SD.
+file : B130_09.wav with 22 clicks, ratio = 25 & NO whistles detected => SW.
+file : B130_10.wav with 7 clicks, ratio = 3 & NO whistles detected => SW.
+file : B131_01.wav with 7 clicks, ratio = -15 & NO whistles detected => SD.
+file : B131_05.wav with 7 clicks, ratio = 4 & NO whistles detected => SW.
+file : B131_06.wav with no labels => Unclassified.
+file : B131_07.wav with 5 clicks, ratio = -6 & NO whistles detected => SD.
+file : B138_07.wav with 122 clicks, ratio = 21 & NO whistles detected => SW.
+file : B140_01.wav with 26 clicks, ratio = -4 & NO whistles detected => SD.
+file : B140_02.wav with 17 clicks, ratio = 3 & NO whistles detected => SW.
+file : B140_03.wav with 7 clicks, ratio = 8 & NO whistles detected => SW.
+file : B140_05.wav with no labels => Unclassified.
+file : B140_06.wav with 11 clicks, ratio = 12 & NO whistles detected => SW.
+file : B140_10.wav with 11 clicks, ratio = 18 & NO whistles detected => SW.
+file : B142_04.wav with no labels => Unclassified.
+file : B142_05.wav with 15 clicks, ratio = -3 & NO whistles detected => SD.
+file : B142_07.wav with 8 clicks, ratio = 4 & NO whistles detected => SW.
+file : B143_01.wav with 20 clicks, ratio = 41 & NO whistles detected => SW.
+file : B143_02.wav with 23 clicks, ratio = 10 & NO whistles detected => SW.
+file : B143_04.wav with 12 clicks, ratio = -1 & NO whistles detected => SD.
+file : B144_07.wav with 15 clicks, ratio = 32 & NO whistles detected => SW.
+file : B144_10.wav with 17 clicks, ratio = 2 & NO whistles detected => SW.
+file : B145_02.wav with 20 clicks, ratio = -22 & NO whistles detected => SD.
+file : B145_03.wav with 14 clicks, ratio = 14 & NO whistles detected => SW.
+file : B146_04.wav with 33 clicks, ratio = -8 & NO whistles detected => SD.
+file : B147_06.wav with 32 clicks, ratio = 158 & NO whistles detected => SW.
+file : B147_07.wav with 20 clicks, ratio = 53 & NO whistles detected => SW.
+file : B150_02.wav with no labels => Unclassified.
+file : B150_03.wav with no labels => Unclassified.
+file : B150_05.wav with 19 clicks, ratio = 18 & NO whistles detected => SW.
+file : B154_01.wav with 3 clicks, ratio = 4 & NO whistles detected => SW.
+file : B154_02.wav with no labels => Unclassified.
+file : B154_03.wav with 4 clicks, ratio = 4 & NO whistles detected => SW.
+file : B154_04.wav with 6 clicks, ratio = 4 & NO whistles detected => SW.
+file : B154_07.wav with 8 clicks, ratio = 9 & NO whistles detected => SW.
+file : B156_01.wav with 31 clicks, ratio = 98 & NO whistles detected => SW.
+file : B156_02.wav with 18 clicks, ratio = 27 & NO whistles detected => SW.
+file : B156_03.wav with 14 clicks, ratio = 8 & NO whistles detected => SW.
+file : B156_05.wav with 4 clicks, ratio = -15 & NO whistles detected => SD.
+file : B156_06.wav with 6 clicks, ratio = 4 & NO whistles detected => SW.
+file : B156_07.wav with 26 clicks, ratio = -12 & NO whistles detected => SD.
+file : B157_01.wav with 15 clicks, ratio = -11 & NO whistles detected => SD.
+file : B157_02.wav with 174 clicks, ratio = -92 & NO whistles detected => SD.
+file : B157_05.wav with 42 clicks, ratio = 41 & NO whistles detected => SW.
+file : B158_05.wav with 7 clicks, ratio = -2 & NO whistles detected => SD.
+file : B158_06.wav with 26 clicks, ratio = -26 & NO whistles detected => SD.
+file : B158_07.wav with 9 clicks, ratio = 4 & NO whistles detected => SW.
+file : B159_02.wav with 6 clicks, ratio = 4 & NO whistles detected => SW.
+file : B159_03.wav with 5 clicks, ratio = -1 & NO whistles detected => SD.
+file : B161_01.wav with 185 clicks, ratio = 130 & NO whistles detected => SW.
+file : B161_02.wav with 379 clicks, ratio = 293 & NO whistles detected => SW.
+file : B161_03.wav with 301 clicks, 7 SD_strong_label & 2 SW_strong_label & NO whistles detected => SD.
+file : B161_04.wav with 42 clicks, ratio = 170 & NO whistles detected => SW.
+file : B161_05.wav with 41 clicks, ratio = 48 & NO whistles detected => SW.
+file : B161_06.wav with 25 clicks, ratio = 31 & NO whistles detected => SW.
+file : B161_07.wav with 36 clicks, ratio = 2 & NO whistles detected => SW.
+file : B161_08.wav with 16 clicks, ratio = 9 & NO whistles detected => SW.
+file : B161_09.wav with 25 clicks, ratio = -14 & NO whistles detected => SD.
+file : B161_10.wav with 52 clicks, ratio = 154 & NO whistles detected => SW.
+file : B162_06.wav with 9 clicks, ratio = 15 & NO whistles detected => SW.
+file : B162_07.wav with no labels => Unclassified.
+file : B163_01.wav with 6 clicks, ratio = 4 & NO whistles detected => SW.
+file : B163_04.wav with 4 clicks, 2 SD_strong_label & 0 SW_strong_label & NO whistles detected => SD.
+file : B163_06.wav with no labels => Unclassified.
+file : B164_06.wav with 27 clicks, ratio = -26 & NO whistles detected => SD.
+file : B165_06.wav with 40 clicks, ratio = 12 & NO whistles detected => SW.
+file : B166_02.wav with 33 clicks, ratio = 4 & NO whistles detected => SW.
+file : B166_03.wav with 43 clicks, ratio = 4 & NO whistles detected => SW.
+file : B166_05.wav with 71 clicks, ratio = -6 & NO whistles detected => SD.
+file : B166_06.wav with 54 clicks, ratio = -7 & NO whistles detected => SD.
+file : B166_07.wav with 66 clicks, ratio = -17 & NO whistles detected => SD.
+file : B168_04.wav with 27 clicks, ratio = 46 & NO whistles detected => SW.
+file : B168_06.wav with 20 clicks, ratio = 44 & NO whistles detected => SW.
+file : B170_01.wav with no labels => Unclassified.
+file : B170_05.wav with 30 clicks, ratio = 46 & NO whistles detected => SW.
+file : B170_07.wav with 26 clicks, ratio = 23 & NO whistles detected => SW.
+file : B170_08.wav with 24 clicks, ratio = 53 & NO whistles detected => SW.
+file : B171_05.wav with 17 clicks, ratio = -11 & NO whistles detected => SD.
+file : B171_07.wav with 13 clicks, ratio = 3 & NO whistles detected => SW.
+file : B172_04.wav with 2 clicks, ratio = -6 & NO whistles detected => SD.
+file : B172_05.wav with 5 clicks, ratio = 10 & NO whistles detected => SW.
+file : B172_06.wav with 8 clicks, ratio = 3 & NO whistles detected => SW.
+file : B172_07.wav with no labels => Unclassified.
+file : B173_08.wav with 75 clicks, ratio = -15 & NO whistles detected => SD.
+file : B173_10.wav with 91 clicks, ratio = 79 & whistles detected => Both.
+file : B174_03.wav with no labels => Unclassified.
+file : B175_03.wav with 5 clicks, ratio = 8 & NO whistles detected => SW.
+file : B175_04.wav with 4 clicks, ratio = 4 & NO whistles detected => SW.
+file : B175_06.wav with 4 clicks, ratio = 4 & NO whistles detected => SW.
+file : B177_03.wav with 2 clicks, ratio = 4 & NO whistles detected => SW.
+file : B177_05.wav with no labels => Unclassified.
+file : B178_05.wav with 13 clicks, ratio = 0 & NO whistles detected => Both.
+file : B178_06.wav with 10 clicks, ratio = 4 & NO whistles detected => SW.
+file : B179_02.wav with 10 clicks, ratio = 4 & NO whistles detected => SW.
+file : B179_03.wav with 4 clicks, ratio = 4 & NO whistles detected => SW.
+file : B179_04.wav with 9 clicks, ratio = 4 & NO whistles detected => SW.
+file : B179_07.wav with 6 clicks, ratio = 18 & NO whistles detected => SW.
+file : B179_09.wav with 30 clicks, ratio = 16 & NO whistles detected => SW.
+file : B179_10.wav with 29 clicks, ratio = 36 & NO whistles detected => SW.
+file : B181_01.wav with no labels => Unclassified.
+file : B181_02.wav with 23 clicks, ratio = 69 & NO whistles detected => SW.
+file : B181_03.wav with 13 clicks, ratio = -6 & NO whistles detected => SD.
+file : B181_04.wav with 52 clicks, ratio = 314 & NO whistles detected => SW.
+file : B181_05.wav with 23 clicks, ratio = 37 & NO whistles detected => SW.
+file : B181_06.wav with 28 clicks, ratio = 3 & NO whistles detected => SW.
+file : B181_07.wav with 112 clicks, ratio = 109 & NO whistles detected => SW.
+file : B181_08.wav with 60 clicks, ratio = 86 & NO whistles detected => SW.
+file : B181_09.wav with 168 clicks, ratio = 360 & NO whistles detected => SW.
+file : B181_10.wav with 159 clicks, ratio = 10 & NO whistles detected => SW.
+file : B182_06.wav with 193 clicks, ratio = -46 & NO whistles detected => SD.
+file : B182_08.wav with 21 clicks, ratio = 17 & NO whistles detected => SW.
+file : B182_09.wav with 45 clicks, ratio = 33 & NO whistles detected => SW.
+file : B182_10.wav with 39 clicks, ratio = 42 & NO whistles detected => SW.
+file : B184_02.wav with 14 clicks, ratio = 10 & NO whistles detected => SW.
+file : B184_03.wav with 12 clicks, ratio = 40 & NO whistles detected => SW.
+file : B184_04.wav with 20 clicks, ratio = -20 & NO whistles detected => SD.
+file : B184_06.wav with 22 clicks, ratio = 48 & NO whistles detected => SW.
+file : B184_07.wav with 39 clicks, ratio = 171 & NO whistles detected => SW.
+file : B184_08.wav with 27 clicks, ratio = 108 & NO whistles detected => SW.
+file : B184_09.wav with 21 clicks, ratio = 100 & NO whistles detected => SW.
+file : B184_10.wav with 11 clicks, ratio = 4 & NO whistles detected => SW.
+file : B186_01.wav with 72 clicks, ratio = 51 & NO whistles detected => SW.
+file : B186_02.wav with 146 clicks, ratio = 92 & NO whistles detected => SW.
+file : B186_03.wav with 30 clicks, 7 SD_strong_label & 0 SW_strong_label & NO whistles detected => SD.
+file : B186_04.wav with 19 clicks, ratio = -46 & NO whistles detected => SD.
+file : B186_06.wav with 23 clicks, ratio = 7 & NO whistles detected => SW.
+file : B186_07.wav with 86 clicks, ratio = 48 & NO whistles detected => SW.
+file : B186_08.wav with 150 clicks, 16 SD_strong_label & 0 SW_strong_label & NO whistles detected => SD.
+file : B186_09.wav with 68 clicks, ratio = -53 & NO whistles detected => SD.
+file : B186_10.wav with 17 clicks, ratio = 4 & NO whistles detected => SW.
+file : B188_01.wav with 5 clicks, ratio = 10 & NO whistles detected => SW.
+file : B188_02.wav with 4 clicks, ratio = 10 & NO whistles detected => SW.
+file : B188_07.wav with no labels => Unclassified.
+file : B189_04.wav with 14 clicks, ratio = -7 & NO whistles detected => SD.
+file : B189_08.wav with 89 clicks, ratio = -22 & NO whistles detected => SD.
+file : B190_03.wav with 27 clicks, ratio = -28 & NO whistles detected => SD.
+file : B192_06.wav with 5 clicks, ratio = -6 & NO whistles detected => SD.
+file : B198_01.wav with 18 clicks, ratio = 83 & NO whistles detected => SW.
+file : B198_05.wav with 12 clicks, ratio = -6 & NO whistles detected => SD.
+file : B198_07.wav with 9 clicks, ratio = 33 & NO whistles detected => SW.
+file : B198_08.wav with 19 clicks, ratio = -24 & whistles detected => SD.
+file : B198_09.wav with no labels => Unclassified.
+file : B198_10.wav with 47 clicks, ratio = -5 & NO whistles detected => SD.
+file : B204_06.wav with 43 clicks, ratio = 22 & NO whistles detected => SW.
+file : B204_07.wav with 25 clicks, ratio = 36 & NO whistles detected => SW.
+file : B204_09.wav with 176 clicks, ratio = 72 & NO whistles detected => SW.
+file : B208_01.wav with 27 clicks, ratio = -37 & NO whistles detected => SD.
+file : B208_02.wav with 63 clicks, ratio = -25 & NO whistles detected => SD.
+file : B208_03.wav with 140 clicks, ratio = 77 & NO whistles detected => SW.
+file : B208_04.wav with 36 clicks, ratio = -15 & NO whistles detected => SD.
+file : B208_09.wav with 32 clicks, ratio = 0 & NO whistles detected => Both.
+file : B208_10.wav with 44 clicks, ratio = 29 & whistles detected => Both.
+file : B209_01.wav with 63 clicks, ratio = -1 & NO whistles detected => SD.
+file : B209_02.wav with 36 clicks, ratio = -36 & NO whistles detected => SD.
+file : B209_03.wav with 64 clicks, ratio = 8 & NO whistles detected => SW.
+file : B209_05.wav with 21 clicks, ratio = 28 & NO whistles detected => SW.
+file : B210_06.wav with 43 clicks, ratio = 33 & NO whistles detected => SW.
+file : B210_08.wav with 146 clicks, ratio = 46 & whistles detected => Both.
+file : B210_09.wav with 593 clicks, ratio = 11 & NO whistles detected => SW.
+file : B210_10.wav with 500 clicks, ratio = -60 & NO whistles detected => SD.
+file : B213_01.wav with 17 clicks, ratio = -39 & whistles detected => SD.
+file : B213_02.wav with 27 clicks, ratio = -11 & NO whistles detected => SD.
+file : B213_03.wav with 56 clicks, ratio = -44 & NO whistles detected => SD.
+file : B213_05.wav with 80 clicks, ratio = 21 & NO whistles detected => SW.
+file : B213_06.wav with 39 clicks, ratio = 15 & NO whistles detected => SW.
+file : B213_09.wav with no labels => Unclassified.
+file : B215_10.wav with 22 clicks, ratio = 4 & NO whistles detected => SW.
+file : B216_05.wav with 267 clicks, ratio = 276 & NO whistles detected => SW.
+file : B216_06.wav with 68 clicks, ratio = 83 & NO whistles detected => SW.
+file : B216_07.wav with 21 clicks, ratio = -14 & NO whistles detected => SD.
+file : B217_10.wav with 289 clicks, ratio = -44 & NO whistles detected => SD.
+file : B222_01.wav with 19 clicks, ratio = 5 & whistles detected => Both.
+file : B222_02.wav with 20 clicks, ratio = -3 & NO whistles detected => SD.
+file : B222_03.wav with 27 clicks, ratio = 25 & NO whistles detected => SW.
+file : B222_06.wav with 32 clicks, ratio = -34 & NO whistles detected => SD.
+file : B222_09.wav with 55 clicks, ratio = -20 & whistles detected => SD.
+file : B222_10.wav with 56 clicks, ratio = 109 & NO whistles detected => SW.
+file : B230_01.wav with 5 clicks, ratio = -6 & NO whistles detected => SD.
+file : B230_02.wav with 22 clicks, ratio = 19 & NO whistles detected => SW.
+file : B230_03.wav with 4 clicks, ratio = -6 & NO whistles detected => SD.
+file : B231_07.wav with 282 clicks, 8 SD_strong_label & 9 SW_strong_label & NO whistles detected => Both.
+file : B231_08.wav with 109 clicks, ratio = -22 & NO whistles detected => SD.
+file : B233_05.wav with 31 clicks, ratio = -14 & whistles detected => SD.
+file : B233_06.wav with 35 clicks, ratio = -27 & whistles detected => SD.
+file : B236_01.wav with 100 clicks, ratio = 43 & NO whistles detected => SW.
+file : B236_02.wav with 26 clicks, ratio = 24 & NO whistles detected => SW.
+file : B236_03.wav with 86 clicks, ratio = -45 & NO whistles detected => SD.
+file : B236_04.wav with 46 clicks, ratio = 153 & NO whistles detected => SW.
+file : B236_05.wav with 15 clicks, ratio = -6 & NO whistles detected => SD.
+file : B236_06.wav with 30 clicks, ratio = 11 & NO whistles detected => SW.
+file : B236_07.wav with 9 clicks, ratio = -21 & NO whistles detected => SD.
+file : B236_08.wav with 8 clicks, ratio = 11 & NO whistles detected => SW.
+file : B236_09.wav with 14 clicks, ratio = 0 & NO whistles detected => Both.
+file : B239_01.wav with 38 clicks, ratio = -5 & NO whistles detected => SD.
+file : B239_02.wav with 46 clicks, ratio = -48 & NO whistles detected => SD.
+file : B239_03.wav with 47 clicks, ratio = 44 & NO whistles detected => SW.
+file : B239_04.wav with 71 clicks, ratio = 31 & NO whistles detected => SW.
+file : B239_05.wav with 55 clicks, ratio = 127 & NO whistles detected => SW.
+file : B239_06.wav with 44 clicks, ratio = -22 & NO whistles detected => SD.
+file : B239_07.wav with 44 clicks, ratio = -18 & whistles detected => SD.
+file : B239_08.wav with 24 clicks, ratio = -31 & NO whistles detected => SD.
+file : B239_09.wav with 10 clicks, ratio = 4 & whistles detected => Both.
+file : B245_01.wav with 204 clicks, ratio = 207 & NO whistles detected => SW.
+file : B247_06.wav with 28 clicks, ratio = 75 & NO whistles detected => SW.
+file : B247_08.wav with 18 clicks, ratio = 7 & NO whistles detected => SW.
+file : B247_09.wav with 33 clicks, ratio = -40 & NO whistles detected => SD.
+file : B247_10.wav with 18 clicks, ratio = 20 & NO whistles detected => SW.
+file : B248_01.wav with 37 clicks, ratio = 88 & NO whistles detected => SW.
+file : B248_02.wav with 18 clicks, ratio = -1 & NO whistles detected => SD.
+file : B248_03.wav with 17 clicks, ratio = 0 & NO whistles detected => Both.
+file : B248_04.wav with 14 clicks, ratio = -15 & NO whistles detected => SD.
+file : B248_05.wav with 24 clicks, ratio = 19 & NO whistles detected => SW.
+file : B248_06.wav with 75 clicks, ratio = 244 & NO whistles detected => SW.
+file : B248_07.wav with 40 clicks, ratio = 138 & NO whistles detected => SW.
+file : B248_08.wav with 46 clicks, ratio = 97 & NO whistles detected => SW.
+file : B248_09.wav with 25 clicks, ratio = 26 & NO whistles detected => SW.
+file : B248_10.wav with no labels => Unclassified.
+file : B249_01.wav with 75 clicks, ratio = 174 & NO whistles detected => SW.
+file : B249_02.wav with 106 clicks, ratio = 261 & NO whistles detected => SW.
+file : B249_03.wav with 57 clicks, ratio = 240 & NO whistles detected => SW.
+file : B249_04.wav with 54 clicks, ratio = 147 & NO whistles detected => SW.
+file : B249_05.wav with 41 clicks, ratio = 27 & NO whistles detected => SW.
+file : B249_06.wav with 72 clicks, ratio = 309 & NO whistles detected => SW.
+file : B249_07.wav with 65 clicks, ratio = 176 & NO whistles detected => SW.
+file : B249_08.wav with 13 clicks, ratio = 33 & NO whistles detected => SW.
+file : B249_09.wav with 79 clicks, ratio = 92 & NO whistles detected => SW.
+file : B249_10.wav with 36 clicks, ratio = 24 & NO whistles detected => SW.
+file : B254_10.wav with no labels => Unclassified.
+file : B255_02.wav with 17 clicks, ratio = -1 & NO whistles detected => SD.
+file : B255_03.wav with 7 clicks, ratio = -15 & NO whistles detected => SD.
+file : B257_01.wav with no labels => Unclassified.
+file : B260_09.wav with 25 clicks, ratio = 5 & NO whistles detected => SW.
+file : B317_01.wav with 21 clicks, ratio = 30 & NO whistles detected => SW.
+file : B317_02.wav with 35 clicks, ratio = -4 & NO whistles detected => SD.
+file : B317_04.wav with 20 clicks, ratio = 25 & NO whistles detected => SW.
+file : B317_07.wav with no labels => Unclassified.
+file : B317_08.wav with 26 clicks, ratio = 70 & NO whistles detected => SW.
+file : B317_09.wav with 22 clicks, ratio = 18 & NO whistles detected => SW.
+file : B329_01.wav with 29 clicks, ratio = -21 & NO whistles detected => SD.
+file : B329_02.wav with 21 clicks, ratio = -1 & NO whistles detected => SD.
+file : B329_03.wav with 31 clicks, ratio = -2 & NO whistles detected => SD.
+file : B329_04.wav with 27 clicks, ratio = -26 & NO whistles detected => SD.
+file : B329_05.wav with 49 clicks, ratio = -41 & NO whistles detected => SD.
+file : B329_06.wav with 4 clicks, ratio = -7 & NO whistles detected => SD.
+file : B333_03.wav with 15 clicks, ratio = 2 & NO whistles detected => SW.
+file : B333_07.wav with 32 clicks, ratio = 9 & NO whistles detected => SW.
+file : B333_08.wav with no labels => Unclassified.
+file : B333_09.wav with 3 clicks, ratio = -15 & NO whistles detected => SD.
+file : B333_10.wav with 5 clicks, 1 SD_strong_label & 2 SW_strong_label & NO whistles detected => SW.
+file : B335_01.wav with 66 clicks, ratio = -15 & NO whistles detected => SD.
+file : B335_02.wav with 80 clicks, ratio = 4 & whistles detected => Both.
+file : B335_05.wav with 113 clicks, ratio = 10 & NO whistles detected => SW.
+file : B335_06.wav with 117 clicks, ratio = -9 & NO whistles detected => SD.
+file : B335_07.wav with 135 clicks, ratio = -63 & NO whistles detected => SD.
+file : B335_08.wav with 397 clicks, ratio = 31 & NO whistles detected => SW.
+file : B335_09.wav with 217 clicks, ratio = 1 & NO whistles detected => SW.
+file : B335_10.wav with 97 clicks, ratio = -93 & NO whistles detected => SD.
+file : B336_01.wav with 36 clicks, ratio = 7 & NO whistles detected => SW.
+file : B336_03.wav with no labels => Unclassified.
+file : B336_05.wav with no labels => Unclassified.
+file : B337_06.wav with no labels => Unclassified.
+file : B338_02.wav with 3 clicks, ratio = 4 & NO whistles detected => SW.
+file : B343_05.wav with no labels => Unclassified.
+file : B343_06.wav with 5 clicks, ratio = -15 & NO whistles detected => SD.
+file : B345_03.wav with 50 clicks, ratio = 3 & NO whistles detected => SW.
+file : B345_04.wav with 63 clicks, ratio = -1 & NO whistles detected => SD.
+file : B346_05.wav with no labels => Unclassified.
+file : B347_02.wav with 2 clicks, ratio = 4 & NO whistles detected => SW.
+file : B347_05.wav with 6 clicks, ratio = 4 & NO whistles detected => SW.
+file : B347_06.wav with 7 clicks, ratio = -20 & NO whistles detected => SD.
+file : B347_07.wav with 3 clicks, ratio = 10 & NO whistles detected => SW.
+file : B349_05.wav with 11 clicks, ratio = 10 & NO whistles detected => SW.
+file : B349_06.wav with no labels => Unclassified.
+file : B351_06.wav with 3 clicks, ratio = -15 & NO whistles detected => SD.
+file : B353_01.wav with 6 clicks, ratio = 12 & NO whistles detected => SW.
+file : B354_03.wav with 19 clicks, ratio = -9 & NO whistles detected => SD.
+file : B354_06.wav with 27 clicks, ratio = 58 & NO whistles detected => SW.
+file : B354_07.wav with 44 clicks, ratio = -15 & NO whistles detected => SD.
+file : B356_01.wav with 21 clicks, ratio = -1 & NO whistles detected => SD.
+file : B357_01.wav with 3 clicks, ratio = 4 & NO whistles detected => SW.
+file : B357_03.wav with no labels => Unclassified.
+file : B357_06.wav with 6 clicks, ratio = -2 & NO whistles detected => SD.
+file : B357_07.wav with 5 clicks, ratio = -15 & NO whistles detected => SD.
+file : B358_06.wav with 4 clicks, ratio = 4 & NO whistles detected => SW.
+file : B358_07.wav with no labels => Unclassified.
+file : B359_04.wav with 4 clicks, ratio = -15 & NO whistles detected => SD.
+file : B359_05.wav with no labels => Unclassified.
+file : B359_06.wav with no labels => Unclassified.
+file : B359_07.wav with no labels => Unclassified.
+file : B360_03.wav with no labels => Unclassified.
+file : B360_05.wav with 4 clicks, ratio = 14 & NO whistles detected => SW.
+file : B360_06.wav with no labels => Unclassified.
+file : B360_07.wav with no labels => Unclassified.
+file : B363_03.wav with no labels => Unclassified.
+file : B363_04.wav with no labels => Unclassified.
+file : B363_07.wav with no labels => Unclassified.
+file : B365_02.wav with 16 clicks, ratio = -4 & NO whistles detected => SD.
+file : B365_03.wav with 5 clicks, ratio = -1 & NO whistles detected => SD.
+
+######     Overall results     ######
+
+Global results Pylos files.
+
+Score Striped Dolphins.
+
+3 SD with high confidence
+117 SD with medium confidence
+20 SD with low confidence
+140 files classified as SD.
+This represents 28.17 % of the overall Pylos files.
+
+Score Sperm Whales.
+
+0 SW with high confidence
+218 SW with medium confidence
+30 SW with low confidence
+248 files classified as SW.
+This represents 49.90 % of the overall Pylos files.
+
+Score others.
+
+13 files classified as both SD & SW.
+This represents 2.62 % of the overall Pylos files.
+0 files with no clicks detected.
+This represents 0.00 % of the overall Pylos files.
+96 files with no labels.
+This represents 19.32 % of the overall Pylos files.
