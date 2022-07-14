@@ -1,0 +1,391 @@
+######     Analysis and classification for each file in the dataset     ######
+
+file : SWAN1_2021-08-26_0300_1s_687ms_Part01.wav with 4 clicks, ratio = 10 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_0300_1s_687ms_Part02.wav with 4 clicks, ratio = 10 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_0300_1s_687ms_Part03.wav with 7 clicks, ratio = 26 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_0300_1s_687ms_Part04.wav with 9 clicks, ratio = 24 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_0300_1s_687ms_Part05.wav with 8 clicks, ratio = 24 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_0300_1s_687ms_Part06.wav with 8 clicks, ratio = 10 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_0300_1s_687ms_Part07.wav with no labels => Unclassified.
+file : SWAN1_2021-08-26_0300_1s_687ms_Part08.wav with no labels => Unclassified.
+file : SWAN1_2021-08-26_0300_1s_687ms_Part09.wav with no labels => Unclassified.
+file : SWAN1_2021-08-26_0300_1s_687ms_Part10.wav with 9 clicks, ratio = -15 & NO whistles detected => SD.
+file : SWAN1_2021-08-26_0300_1s_687ms_Part11.wav with no labels => Unclassified.
+file : SWAN1_2021-08-26_0300_1s_687ms_Part12.wav with 3 clicks, ratio = 10 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_0309_1s_896ms_Part01.wav with no labels => Unclassified.
+file : SWAN1_2021-08-26_0309_1s_896ms_Part02.wav with 9 clicks, ratio = 30 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_0309_1s_896ms_Part03.wav with 15 clicks, ratio = 24 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_0309_1s_896ms_Part04.wav with 9 clicks, ratio = 14 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_0309_1s_896ms_Part05.wav with 10 clicks, ratio = 28 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_0309_1s_896ms_Part06.wav with 12 clicks, ratio = 15 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_0309_1s_896ms_Part07.wav with 15 clicks, ratio = 10 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_0309_1s_896ms_Part08.wav with 15 clicks, ratio = 10 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_0309_1s_896ms_Part09.wav with 22 clicks, ratio = 10 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_0309_1s_896ms_Part10.wav with 26 clicks, ratio = 45 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_0309_1s_896ms_Part11.wav with 12 clicks, ratio = 10 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_0309_1s_896ms_Part12.wav with 12 clicks, ratio = 20 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_0330_1s_921ms_Part01.wav with 15 clicks, ratio = 30 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_0330_1s_921ms_Part02.wav with 7 clicks, ratio = 40 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_0330_1s_921ms_Part03.wav with 11 clicks, ratio = 45 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_0330_1s_921ms_Part04.wav with no labels => Unclassified.
+file : SWAN1_2021-08-26_0330_1s_921ms_Part05.wav with 4 clicks, ratio = -15 & NO whistles detected => SD.
+file : SWAN1_2021-08-26_0330_1s_921ms_Part06.wav with no labels => Unclassified.
+file : SWAN1_2021-08-26_0330_1s_921ms_Part07.wav with no clicks detected => Not detected.
+file : SWAN1_2021-08-26_0330_1s_921ms_Part08.wav with no labels => Unclassified.
+file : SWAN1_2021-08-26_0330_1s_921ms_Part09.wav with no clicks detected => Not detected.
+file : SWAN1_2021-08-26_0330_1s_921ms_Part10.wav with no clicks detected => Not detected.
+file : SWAN1_2021-08-26_0330_1s_921ms_Part11.wav with no clicks detected => Not detected.
+file : SWAN1_2021-08-26_0330_1s_921ms_Part12.wav with no clicks detected => Not detected.
+file : SWAN1_2021-08-26_0336_1s_322ms_Part01.wav with no labels => Unclassified.
+file : SWAN1_2021-08-26_0336_1s_322ms_Part02.wav with no labels => Unclassified.
+file : SWAN1_2021-08-26_0336_1s_322ms_Part03.wav with 4 clicks, ratio = 13 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_0336_1s_322ms_Part04.wav with 8 clicks, ratio = 20 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_0336_1s_322ms_Part05.wav with 15 clicks, ratio = 41 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_0336_1s_322ms_Part06.wav with 12 clicks, ratio = 14 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_0336_1s_322ms_Part07.wav with 4 clicks, ratio = 10 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_0336_1s_322ms_Part08.wav with no labels => Unclassified.
+file : SWAN1_2021-08-26_0336_1s_322ms_Part09.wav with no clicks detected => Not detected.
+file : SWAN1_2021-08-26_0336_1s_322ms_Part10.wav with no clicks detected => Not detected.
+file : SWAN1_2021-08-26_0336_1s_322ms_Part11.wav with no clicks detected => Not detected.
+file : SWAN1_2021-08-26_0336_1s_322ms_Part12.wav with no clicks detected => Not detected.
+file : SWAN1_2021-08-26_0348_1s_940ms_Part01.wav with 6 clicks, ratio = 10 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_0348_1s_940ms_Part02.wav with 7 clicks, ratio = 50 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_0348_1s_940ms_Part03.wav with 4 clicks, ratio = 28 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_0348_1s_940ms_Part04.wav with 11 clicks, ratio = 40 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_0348_1s_940ms_Part05.wav with 10 clicks, ratio = 42 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_0348_1s_940ms_Part06.wav with 8 clicks, ratio = 53 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_0348_1s_940ms_Part07.wav with 6 clicks, ratio = 50 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_0348_1s_940ms_Part08.wav with 14 clicks, ratio = 67 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_0348_1s_940ms_Part09.wav with 10 clicks, ratio = 74 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_0348_1s_940ms_Part10.wav with 6 clicks, ratio = 28 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_0348_1s_940ms_Part11.wav with 3 clicks, ratio = 10 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_0348_1s_940ms_Part12.wav with 4 clicks, ratio = 6 & NO whistles detected => SD.
+file : SWAN1_2021-08-26_0351_1s_231ms_Part01.wav with 9 clicks, ratio = -5 & NO whistles detected => SD.
+file : SWAN1_2021-08-26_0351_1s_231ms_Part02.wav with 14 clicks, ratio = 26 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_0351_1s_231ms_Part03.wav with 10 clicks, ratio = 30 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_0351_1s_231ms_Part04.wav with 8 clicks, ratio = 3 & NO whistles detected => SD.
+file : SWAN1_2021-08-26_0351_1s_231ms_Part05.wav with 6 clicks, ratio = 3 & NO whistles detected => SD.
+file : SWAN1_2021-08-26_0351_1s_231ms_Part06.wav with 12 clicks, ratio = 44 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_0351_1s_231ms_Part07.wav with 11 clicks, ratio = 15 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_0351_1s_231ms_Part08.wav with 12 clicks, ratio = 35 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_0351_1s_231ms_Part09.wav with 11 clicks, ratio = -15 & NO whistles detected => SD.
+file : SWAN1_2021-08-26_0351_1s_231ms_Part10.wav with 20 clicks, ratio = 60 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_0351_1s_231ms_Part11.wav with 10 clicks, ratio = 20 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_0351_1s_231ms_Part12.wav with 11 clicks, ratio = 13 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_0442_1s_826ms_Part01.wav with 12 clicks, ratio = 20 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_0442_1s_826ms_Part02.wav with 9 clicks, ratio = 18 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_0442_1s_826ms_Part03.wav with 22 clicks, ratio = 138 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_0442_1s_826ms_Part04.wav with 12 clicks, ratio = 16 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_0442_1s_826ms_Part05.wav with 8 clicks, ratio = 20 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_0442_1s_826ms_Part06.wav with 12 clicks, ratio = 13 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_0442_1s_826ms_Part07.wav with 14 clicks, ratio = 84 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_0442_1s_826ms_Part08.wav with 8 clicks, ratio = 38 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_0442_1s_826ms_Part09.wav with no clicks detected => Not detected.
+file : SWAN1_2021-08-26_0442_1s_826ms_Part10.wav with no clicks detected => Not detected.
+file : SWAN1_2021-08-26_0442_1s_826ms_Part11.wav with no clicks detected => Not detected.
+file : SWAN1_2021-08-26_0442_1s_826ms_Part12.wav with no clicks detected => Not detected.
+file : SWAN1_2021-08-26_0500_2s_36ms_Part01.wav with 2 clicks, ratio = 4 & NO whistles detected => SD.
+file : SWAN1_2021-08-26_0500_2s_36ms_Part02.wav with 12 clicks, ratio = 44 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_0500_2s_36ms_Part03.wav with 7 clicks, ratio = 40 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_0500_2s_36ms_Part04.wav with 3 clicks, ratio = 16 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_0500_2s_36ms_Part05.wav with 5 clicks, ratio = 20 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_0500_2s_36ms_Part06.wav with 8 clicks, ratio = 47 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_0500_2s_36ms_Part07.wav with 11 clicks, ratio = 33 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_0500_2s_36ms_Part08.wav with 11 clicks, ratio = 64 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_0500_2s_36ms_Part09.wav with no clicks detected => Not detected.
+file : SWAN1_2021-08-26_0500_2s_36ms_Part10.wav with no clicks detected => Not detected.
+file : SWAN1_2021-08-26_0500_2s_36ms_Part11.wav with no clicks detected => Not detected.
+file : SWAN1_2021-08-26_0500_2s_36ms_Part12.wav with no clicks detected => Not detected.
+file : SWAN1_2021-08-26_0542_1s_608ms_Part01.wav with 5 clicks, ratio = 24 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_0542_1s_608ms_Part02.wav with 3 clicks, ratio = 4 & NO whistles detected => SD.
+file : SWAN1_2021-08-26_0542_1s_608ms_Part03.wav with 2 clicks, ratio = 19 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_0542_1s_608ms_Part04.wav with 8 clicks, ratio = 66 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_0542_1s_608ms_Part05.wav with 7 clicks, ratio = 40 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_0542_1s_608ms_Part06.wav with 4 clicks, ratio = 9 & NO whistles detected => Both.
+file : SWAN1_2021-08-26_0542_1s_608ms_Part07.wav with 2 clicks, ratio = 10 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_0542_1s_608ms_Part08.wav with 13 clicks, ratio = 95 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_0542_1s_608ms_Part09.wav with 8 clicks, ratio = 60 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_0542_1s_608ms_Part10.wav with 4 clicks, ratio = 40 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_0542_1s_608ms_Part11.wav with 6 clicks, ratio = 38 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_0542_1s_608ms_Part12.wav with 3 clicks, ratio = 7 & NO whistles detected => SD.
+file : SWAN1_2021-08-26_0551_1s_878ms_Part01.wav with 7 clicks, ratio = 33 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_0551_1s_878ms_Part02.wav with 12 clicks, ratio = 36 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_0551_1s_878ms_Part03.wav with no labels => Unclassified.
+file : SWAN1_2021-08-26_0551_1s_878ms_Part04.wav with 9 clicks, ratio = 16 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_0551_1s_878ms_Part05.wav with no labels => Unclassified.
+file : SWAN1_2021-08-26_0551_1s_878ms_Part06.wav with 5 clicks, ratio = 15 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_0551_1s_878ms_Part07.wav with 9 clicks, ratio = 4 & NO whistles detected => SD.
+file : SWAN1_2021-08-26_0551_1s_878ms_Part08.wav with 7 clicks, ratio = 10 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_0551_1s_878ms_Part09.wav with 7 clicks, ratio = 3 & NO whistles detected => SD.
+file : SWAN1_2021-08-26_0551_1s_878ms_Part10.wav with 3 clicks, ratio = 18 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_0551_1s_878ms_Part11.wav with 4 clicks, ratio = 30 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_0551_1s_878ms_Part12.wav with 7 clicks, ratio = 65 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_0624_1s_482ms_Part01.wav with no labels => Unclassified.
+file : SWAN1_2021-08-26_0624_1s_482ms_Part02.wav with 1 clicks, ratio = 10 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_0624_1s_482ms_Part03.wav with no labels => Unclassified.
+file : SWAN1_2021-08-26_0624_1s_482ms_Part04.wav with 10 clicks, ratio = 20 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_0624_1s_482ms_Part05.wav with no labels => Unclassified.
+file : SWAN1_2021-08-26_0624_1s_482ms_Part06.wav with 4 clicks, ratio = 20 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_0624_1s_482ms_Part07.wav with 3 clicks, ratio = 10 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_0624_1s_482ms_Part08.wav with no labels => Unclassified.
+file : SWAN1_2021-08-26_0624_1s_482ms_Part09.wav with no clicks detected => Not detected.
+file : SWAN1_2021-08-26_0624_1s_482ms_Part10.wav with no clicks detected => Not detected.
+file : SWAN1_2021-08-26_0624_1s_482ms_Part11.wav with no clicks detected => Not detected.
+file : SWAN1_2021-08-26_0624_1s_482ms_Part12.wav with no clicks detected => Not detected.
+file : SWAN1_2021-08-26_0648_1s_281ms_Part01.wav with 10 clicks, ratio = 50 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_0648_1s_281ms_Part02.wav with 4 clicks, ratio = 40 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_0648_1s_281ms_Part03.wav with 7 clicks, ratio = 29 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_0648_1s_281ms_Part04.wav with 11 clicks, ratio = 30 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_0648_1s_281ms_Part05.wav with 17 clicks, ratio = 94 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_0648_1s_281ms_Part06.wav with 15 clicks, ratio = 60 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_0648_1s_281ms_Part07.wav with 9 clicks, ratio = 30 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_0648_1s_281ms_Part08.wav with 9 clicks, ratio = 24 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_0648_1s_281ms_Part09.wav with 8 clicks, ratio = 22 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_0648_1s_281ms_Part10.wav with 4 clicks, ratio = 20 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_0648_1s_281ms_Part11.wav with 5 clicks, ratio = 10 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_0648_1s_281ms_Part12.wav with 15 clicks, ratio = 45 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_0712_1s_185ms_Part01.wav with 6 clicks, ratio = 10 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_0712_1s_185ms_Part02.wav with 11 clicks, ratio = 20 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_0712_1s_185ms_Part03.wav with 6 clicks, ratio = 30 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_0712_1s_185ms_Part04.wav with 5 clicks, ratio = 20 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_0712_1s_185ms_Part05.wav with 6 clicks, ratio = 49 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_0712_1s_185ms_Part06.wav with 12 clicks, ratio = -46 & NO whistles detected => SD.
+file : SWAN1_2021-08-26_0712_1s_185ms_Part07.wav with 11 clicks, ratio = -31 & NO whistles detected => SD.
+file : SWAN1_2021-08-26_0712_1s_185ms_Part08.wav with 6 clicks, ratio = 14 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_0712_1s_185ms_Part09.wav with 3 clicks, ratio = 20 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_0712_1s_185ms_Part10.wav with 2 clicks, ratio = 3 & NO whistles detected => SD.
+file : SWAN1_2021-08-26_0712_1s_185ms_Part11.wav with 2 clicks, ratio = 10 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_0712_1s_185ms_Part12.wav with 3 clicks, ratio = 20 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_1000_1s_987ms_Part01.wav with no labels => Unclassified.
+file : SWAN1_2021-08-26_1000_1s_987ms_Part02.wav with no clicks detected => Not detected.
+file : SWAN1_2021-08-26_1000_1s_987ms_Part03.wav with no clicks detected => Not detected.
+file : SWAN1_2021-08-26_1000_1s_987ms_Part04.wav with no clicks detected => Not detected.
+file : SWAN1_2021-08-26_1000_1s_987ms_Part05.wav with 1 clicks, ratio = 3 & NO whistles detected => SD.
+file : SWAN1_2021-08-26_1000_1s_987ms_Part06.wav with 7 clicks, ratio = 65 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_1000_1s_987ms_Part07.wav with 17 clicks, ratio = 153 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_1000_1s_987ms_Part08.wav with 8 clicks, ratio = 84 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_1000_1s_987ms_Part09.wav with 10 clicks, ratio = 24 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_1000_1s_987ms_Part10.wav with 4 clicks, ratio = 13 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_1000_1s_987ms_Part11.wav with 1 clicks, ratio = 3 & NO whistles detected => SD.
+file : SWAN1_2021-08-26_1000_1s_987ms_Part12.wav with no clicks detected => Not detected.
+file : SWAN1_2021-08-26_1018_1s_451ms_Part01.wav with 19 clicks, ratio = 184 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_1018_1s_451ms_Part02.wav with 7 clicks, ratio = 73 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_1018_1s_451ms_Part03.wav with 4 clicks, ratio = 21 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_1018_1s_451ms_Part04.wav with 11 clicks, ratio = 49 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_1018_1s_451ms_Part05.wav with 15 clicks, ratio = 109 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_1018_1s_451ms_Part06.wav with 3 clicks, ratio = 6 & NO whistles detected => SD.
+file : SWAN1_2021-08-26_1018_1s_451ms_Part07.wav with 18 clicks, ratio = 127 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_1018_1s_451ms_Part08.wav with 20 clicks, ratio = 99 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_1018_1s_451ms_Part09.wav with 5 clicks, ratio = 30 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_1018_1s_451ms_Part10.wav with 5 clicks, ratio = 15 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_1018_1s_451ms_Part11.wav with no clicks detected => Not detected.
+file : SWAN1_2021-08-26_1018_1s_451ms_Part12.wav with 1 clicks, ratio = 15 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_1021_1s_512ms_Part01.wav with 22 clicks, ratio = 191 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_1021_1s_512ms_Part02.wav with 15 clicks, ratio = 115 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_1021_1s_512ms_Part03.wav with 29 clicks, ratio = 224 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_1021_1s_512ms_Part04.wav with 12 clicks, ratio = 88 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_1021_1s_512ms_Part05.wav with 1 clicks, ratio = 10 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_1021_1s_512ms_Part06.wav with no clicks detected => Not detected.
+file : SWAN1_2021-08-26_1021_1s_512ms_Part07.wav with no clicks detected => Not detected.
+file : SWAN1_2021-08-26_1021_1s_512ms_Part08.wav with no clicks detected => Not detected.
+file : SWAN1_2021-08-26_1021_1s_512ms_Part09.wav with no clicks detected => Not detected.
+file : SWAN1_2021-08-26_1021_1s_512ms_Part10.wav with no clicks detected => Not detected.
+file : SWAN1_2021-08-26_1021_1s_512ms_Part11.wav with no clicks detected => Not detected.
+file : SWAN1_2021-08-26_1021_1s_512ms_Part12.wav with no clicks detected => Not detected.
+file : SWAN1_2021-08-26_1024_1s_463ms_Part01.wav with 8 clicks, ratio = 32 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_1024_1s_463ms_Part02.wav with no clicks detected => Not detected.
+file : SWAN1_2021-08-26_1024_1s_463ms_Part03.wav with 4 clicks, ratio = 50 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_1024_1s_463ms_Part04.wav with 21 clicks, ratio = 158 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_1024_1s_463ms_Part05.wav with 14 clicks, ratio = 103 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_1024_1s_463ms_Part06.wav with 27 clicks, ratio = 216 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_1024_1s_463ms_Part07.wav with 18 clicks, ratio = 168 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_1024_1s_463ms_Part08.wav with 17 clicks, ratio = 103 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_1024_1s_463ms_Part09.wav with 12 clicks, ratio = 77 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_1024_1s_463ms_Part10.wav with 24 clicks, ratio = 211 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_1024_1s_463ms_Part11.wav with 10 clicks, ratio = 98 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_1024_1s_463ms_Part12.wav with 5 clicks, ratio = 21 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_1051_1s_333ms_Part01.wav with no labels => Unclassified.
+file : SWAN1_2021-08-26_1051_1s_333ms_Part02.wav with no clicks detected => Not detected.
+file : SWAN1_2021-08-26_1051_1s_333ms_Part03.wav with no clicks detected => Not detected.
+file : SWAN1_2021-08-26_1051_1s_333ms_Part04.wav with no clicks detected => Not detected.
+file : SWAN1_2021-08-26_1051_1s_333ms_Part05.wav with no clicks detected => Not detected.
+file : SWAN1_2021-08-26_1051_1s_333ms_Part06.wav with no clicks detected => Not detected.
+file : SWAN1_2021-08-26_1051_1s_333ms_Part07.wav with no clicks detected => Not detected.
+file : SWAN1_2021-08-26_1051_1s_333ms_Part08.wav with no clicks detected => Not detected.
+file : SWAN1_2021-08-26_1051_1s_333ms_Part09.wav with no clicks detected => Not detected.
+file : SWAN1_2021-08-26_1051_1s_333ms_Part10.wav with no clicks detected => Not detected.
+file : SWAN1_2021-08-26_1051_1s_333ms_Part11.wav with no clicks detected => Not detected.
+file : SWAN1_2021-08-26_1051_1s_333ms_Part12.wav with no clicks detected => Not detected.
+file : SWAN1_2021-08-26_1057_2s_74ms_Part01.wav with no labels => Unclassified.
+file : SWAN1_2021-08-26_1057_2s_74ms_Part02.wav with no clicks detected => Not detected.
+file : SWAN1_2021-08-26_1057_2s_74ms_Part03.wav with no clicks detected => Not detected.
+file : SWAN1_2021-08-26_1057_2s_74ms_Part04.wav with no clicks detected => Not detected.
+file : SWAN1_2021-08-26_1057_2s_74ms_Part05.wav with no labels => Unclassified.
+file : SWAN1_2021-08-26_1057_2s_74ms_Part06.wav with no clicks detected => Not detected.
+file : SWAN1_2021-08-26_1057_2s_74ms_Part07.wav with no clicks detected => Not detected.
+file : SWAN1_2021-08-26_1057_2s_74ms_Part08.wav with no labels => Unclassified.
+file : SWAN1_2021-08-26_1057_2s_74ms_Part09.wav with no clicks detected => Not detected.
+file : SWAN1_2021-08-26_1057_2s_74ms_Part10.wav with no clicks detected => Not detected.
+file : SWAN1_2021-08-26_1057_2s_74ms_Part11.wav with no clicks detected => Not detected.
+file : SWAN1_2021-08-26_1057_2s_74ms_Part12.wav with no clicks detected => Not detected.
+file : SWAN1_2021-08-26_1106_1s_344ms_Part01.wav with 2 clicks, ratio = 6 & NO whistles detected => SD.
+file : SWAN1_2021-08-26_1106_1s_344ms_Part02.wav with 2 clicks, ratio = 15 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_1106_1s_344ms_Part03.wav with no clicks detected => Not detected.
+file : SWAN1_2021-08-26_1106_1s_344ms_Part04.wav with 1 clicks, ratio = 10 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_1106_1s_344ms_Part05.wav with 3 clicks, ratio = 33 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_1106_1s_344ms_Part06.wav with no clicks detected => Not detected.
+file : SWAN1_2021-08-26_1106_1s_344ms_Part07.wav with 1 clicks, ratio = 3 & NO whistles detected => SD.
+file : SWAN1_2021-08-26_1106_1s_344ms_Part08.wav with no clicks detected => Not detected.
+file : SWAN1_2021-08-26_1106_1s_344ms_Part09.wav with no clicks detected => Not detected.
+file : SWAN1_2021-08-26_1106_1s_344ms_Part10.wav with no clicks detected => Not detected.
+file : SWAN1_2021-08-26_1106_1s_344ms_Part11.wav with no clicks detected => Not detected.
+file : SWAN1_2021-08-26_1106_1s_344ms_Part12.wav with no clicks detected => Not detected.
+file : SWAN1_2021-08-26_1112_1s_379ms_Part01.wav with 5 clicks, ratio = 16 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_1112_1s_379ms_Part02.wav with 2 clicks, ratio = 15 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_1112_1s_379ms_Part03.wav with 5 clicks, ratio = 60 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_1112_1s_379ms_Part04.wav with 3 clicks, ratio = 45 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_1112_1s_379ms_Part05.wav with no clicks detected => Not detected.
+file : SWAN1_2021-08-26_1112_1s_379ms_Part06.wav with 4 clicks, ratio = 60 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_1112_1s_379ms_Part07.wav with 3 clicks, ratio = 45 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_1112_1s_379ms_Part08.wav with no clicks detected => Not detected.
+file : SWAN1_2021-08-26_1112_1s_379ms_Part09.wav with no clicks detected => Not detected.
+file : SWAN1_2021-08-26_1112_1s_379ms_Part10.wav with no clicks detected => Not detected.
+file : SWAN1_2021-08-26_1112_1s_379ms_Part11.wav with 3 clicks, ratio = 16 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_1112_1s_379ms_Part12.wav with 7 clicks, ratio = 56 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_1127_1s_307ms_Part01.wav with 21 clicks, ratio = 111 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_1127_1s_307ms_Part02.wav with 18 clicks, ratio = 135 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_1127_1s_307ms_Part03.wav with 8 clicks, ratio = 54 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_1127_1s_307ms_Part04.wav with 14 clicks, ratio = 61 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_1127_1s_307ms_Part05.wav with 15 clicks, ratio = 141 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_1127_1s_307ms_Part06.wav with 2 clicks, ratio = 7 & NO whistles detected => SD.
+file : SWAN1_2021-08-26_1127_1s_307ms_Part07.wav with 11 clicks, ratio = 97 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_1127_1s_307ms_Part08.wav with 19 clicks, ratio = 125 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_1127_1s_307ms_Part09.wav with 17 clicks, ratio = 91 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_1127_1s_307ms_Part10.wav with 12 clicks, ratio = 29 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_1127_1s_307ms_Part11.wav with 9 clicks, ratio = 55 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_1127_1s_307ms_Part12.wav with no labels => Unclassified.
+file : SWAN1_2021-08-26_1139_1s_865ms_Part01.wav with no labels => Unclassified.
+file : SWAN1_2021-08-26_1139_1s_865ms_Part02.wav with 6 clicks, ratio = 60 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_1139_1s_865ms_Part03.wav with no clicks detected => Not detected.
+file : SWAN1_2021-08-26_1139_1s_865ms_Part04.wav with no clicks detected => Not detected.
+file : SWAN1_2021-08-26_1139_1s_865ms_Part05.wav with 9 clicks, ratio = 73 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_1139_1s_865ms_Part06.wav with 6 clicks, ratio = 53 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_1139_1s_865ms_Part07.wav with 3 clicks, ratio = 23 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_1139_1s_865ms_Part08.wav with no clicks detected => Not detected.
+file : SWAN1_2021-08-26_1139_1s_865ms_Part09.wav with no clicks detected => Not detected.
+file : SWAN1_2021-08-26_1139_1s_865ms_Part10.wav with no clicks detected => Not detected.
+file : SWAN1_2021-08-26_1139_1s_865ms_Part11.wav with no clicks detected => Not detected.
+file : SWAN1_2021-08-26_1139_1s_865ms_Part12.wav with no clicks detected => Not detected.
+file : SWAN1_2021-08-26_1209_1s_304ms_Part01.wav with no labels => Unclassified.
+file : SWAN1_2021-08-26_1209_1s_304ms_Part02.wav with 1 clicks, ratio = 3 & NO whistles detected => SD.
+file : SWAN1_2021-08-26_1209_1s_304ms_Part03.wav with 2 clicks, ratio = 6 & NO whistles detected => SD.
+file : SWAN1_2021-08-26_1209_1s_304ms_Part04.wav with 2 clicks, ratio = 3 & NO whistles detected => SD.
+file : SWAN1_2021-08-26_1209_1s_304ms_Part05.wav with no clicks detected => Not detected.
+file : SWAN1_2021-08-26_1209_1s_304ms_Part06.wav with 5 clicks, ratio = 40 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_1209_1s_304ms_Part07.wav with 1 clicks, ratio = 3 & NO whistles detected => SD.
+file : SWAN1_2021-08-26_1209_1s_304ms_Part08.wav with 4 clicks, ratio = 10 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_1209_1s_304ms_Part09.wav with no clicks detected => Not detected.
+file : SWAN1_2021-08-26_1209_1s_304ms_Part10.wav with no clicks detected => Not detected.
+file : SWAN1_2021-08-26_1209_1s_304ms_Part11.wav with no labels => Unclassified.
+file : SWAN1_2021-08-26_1209_1s_304ms_Part12.wav with 3 clicks, ratio = 3 & NO whistles detected => SD.
+file : SWAN1_2021-08-26_1303_1s_902ms_Part01.wav with 7 clicks, ratio = 20 & whistles detected => Both.
+file : SWAN1_2021-08-26_1303_1s_902ms_Part02.wav with 3 clicks, ratio = 20 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_1303_1s_902ms_Part03.wav with 1 clicks, ratio = 4 & NO whistles detected => SD.
+file : SWAN1_2021-08-26_1303_1s_902ms_Part04.wav with no clicks detected => Not detected.
+file : SWAN1_2021-08-26_1303_1s_902ms_Part05.wav with 8 clicks, ratio = 40 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_1303_1s_902ms_Part06.wav with 9 clicks, ratio = 78 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_1303_1s_902ms_Part07.wav with 5 clicks, ratio = 30 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_1303_1s_902ms_Part08.wav with 4 clicks, ratio = 30 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_1303_1s_902ms_Part09.wav with 5 clicks, ratio = 10 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_1303_1s_902ms_Part10.wav with 11 clicks, ratio = 55 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_1303_1s_902ms_Part11.wav with 10 clicks, ratio = 70 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_1303_1s_902ms_Part12.wav with 11 clicks, ratio = 80 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_1306_1s_367ms_Part01.wav with 7 clicks, ratio = 20 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_1306_1s_367ms_Part02.wav with 9 clicks, ratio = 70 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_1306_1s_367ms_Part03.wav with 4 clicks, ratio = -1 & NO whistles detected => SD.
+file : SWAN1_2021-08-26_1306_1s_367ms_Part04.wav with no labels => Unclassified.
+file : SWAN1_2021-08-26_1306_1s_367ms_Part05.wav with 1 clicks, ratio = 10 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_1306_1s_367ms_Part06.wav with 5 clicks, ratio = 4 & NO whistles detected => SD.
+file : SWAN1_2021-08-26_1306_1s_367ms_Part07.wav with 10 clicks, ratio = -8 & NO whistles detected => SD.
+file : SWAN1_2021-08-26_1306_1s_367ms_Part08.wav with 3 clicks, ratio = 4 & NO whistles detected => SD.
+file : SWAN1_2021-08-26_1306_1s_367ms_Part09.wav with no clicks detected => Not detected.
+file : SWAN1_2021-08-26_1306_1s_367ms_Part10.wav with no clicks detected => Not detected.
+file : SWAN1_2021-08-26_1306_1s_367ms_Part11.wav with no clicks detected => Not detected.
+file : SWAN1_2021-08-26_1306_1s_367ms_Part12.wav with no clicks detected => Not detected.
+file : SWAN1_2021-08-26_1309_2s_168ms_Part01.wav with 2 clicks, ratio = 10 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_1309_2s_168ms_Part02.wav with no labels => Unclassified.
+file : SWAN1_2021-08-26_1309_2s_168ms_Part03.wav with 5 clicks, ratio = 4 & NO whistles detected => SD.
+file : SWAN1_2021-08-26_1309_2s_168ms_Part04.wav with 8 clicks, ratio = 4 & NO whistles detected => SD.
+file : SWAN1_2021-08-26_1309_2s_168ms_Part05.wav with 12 clicks, ratio = 30 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_1309_2s_168ms_Part06.wav with 9 clicks, ratio = 20 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_1309_2s_168ms_Part07.wav with 17 clicks, ratio = 53 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_1309_2s_168ms_Part08.wav with 22 clicks, ratio = 37 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_1309_2s_168ms_Part09.wav with 16 clicks, ratio = 54 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_1309_2s_168ms_Part10.wav with 14 clicks, ratio = 80 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_1309_2s_168ms_Part11.wav with 10 clicks, ratio = 70 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_1309_2s_168ms_Part12.wav with 4 clicks, ratio = 18 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_1318_1s_414ms_Part01.wav with 17 clicks, ratio = 90 & whistles detected => Both.
+file : SWAN1_2021-08-26_1318_1s_414ms_Part02.wav with 24 clicks, ratio = 100 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_1318_1s_414ms_Part03.wav with 18 clicks, ratio = 40 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_1318_1s_414ms_Part04.wav with 21 clicks, ratio = -1 & NO whistles detected => SD.
+file : SWAN1_2021-08-26_1318_1s_414ms_Part05.wav with 13 clicks, ratio = 5 & NO whistles detected => SD.
+file : SWAN1_2021-08-26_1318_1s_414ms_Part06.wav with no labels => Unclassified.
+file : SWAN1_2021-08-26_1318_1s_414ms_Part07.wav with no labels => Unclassified.
+file : SWAN1_2021-08-26_1318_1s_414ms_Part08.wav with no labels => Unclassified.
+file : SWAN1_2021-08-26_1318_1s_414ms_Part09.wav with no clicks detected => Not detected.
+file : SWAN1_2021-08-26_1318_1s_414ms_Part10.wav with no labels => Unclassified.
+file : SWAN1_2021-08-26_1318_1s_414ms_Part11.wav with 17 clicks, ratio = 8 & NO whistles detected => SD.
+file : SWAN1_2021-08-26_1318_1s_414ms_Part12.wav with 12 clicks, ratio = 45 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_1351_1s_768ms_Part01.wav with 10 clicks, ratio = 60 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_1351_1s_768ms_Part02.wav with no labels => Unclassified.
+file : SWAN1_2021-08-26_1351_1s_768ms_Part03.wav with no clicks detected => Not detected.
+file : SWAN1_2021-08-26_1351_1s_768ms_Part04.wav with no labels => Unclassified.
+file : SWAN1_2021-08-26_1351_1s_768ms_Part05.wav with no clicks detected => Not detected.
+file : SWAN1_2021-08-26_1351_1s_768ms_Part06.wav with no clicks detected => Not detected.
+file : SWAN1_2021-08-26_1351_1s_768ms_Part07.wav with 4 clicks, ratio = 40 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_1351_1s_768ms_Part08.wav with no clicks detected => Not detected.
+file : SWAN1_2021-08-26_1351_1s_768ms_Part09.wav with 3 clicks, ratio = 20 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_1351_1s_768ms_Part10.wav with no clicks detected => Not detected.
+file : SWAN1_2021-08-26_1351_1s_768ms_Part11.wav with no clicks detected => Not detected.
+file : SWAN1_2021-08-26_1351_1s_768ms_Part12.wav with no clicks detected => Not detected.
+file : SWAN1_2021-08-26_1445_1s_823ms_Part01.wav with 35 clicks, ratio = -7 & NO whistles detected => SD.
+file : SWAN1_2021-08-26_1445_1s_823ms_Part02.wav with no labels => Unclassified.
+file : SWAN1_2021-08-26_1445_1s_823ms_Part03.wav with 11 clicks, ratio = 10 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_1445_1s_823ms_Part04.wav with no labels => Unclassified.
+file : SWAN1_2021-08-26_1445_1s_823ms_Part05.wav with 19 clicks, ratio = 10 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_1445_1s_823ms_Part06.wav with no labels => Unclassified.
+file : SWAN1_2021-08-26_1445_1s_823ms_Part07.wav with 29 clicks, ratio = -30 & NO whistles detected => SD.
+file : SWAN1_2021-08-26_1445_1s_823ms_Part08.wav with 31 clicks, ratio = 16 & NO whistles detected => SW.
+file : SWAN1_2021-08-26_1445_1s_823ms_Part09.wav with 25 clicks, ratio = -5 & NO whistles detected => SD.
+file : SWAN1_2021-08-26_1445_1s_823ms_Part10.wav with 19 clicks, ratio = 4 & NO whistles detected => SD.
+file : SWAN1_2021-08-26_1445_1s_823ms_Part11.wav with 15 clicks, ratio = -15 & NO whistles detected => SD.
+file : SWAN1_2021-08-26_1445_1s_823ms_Part12.wav with 19 clicks, ratio = 20 & NO whistles detected => SW.
+
+######     Overall results     ######
+
+Global results SWAN files.
+
+Score Striped Dolphins.
+
+0 SD with high confidence
+19 SD with medium confidence
+22 SD with low confidence
+41 files classified as SD.
+This represents 11.39 % of the overall SWAN files.
+
+Score Sperm Whales.
+
+0 SW with high confidence
+135 SW with medium confidence
+56 SW with low confidence
+191 files classified as SW.
+This represents 53.06 % of the overall SWAN files.
+
+Score others.
+
+3 files classified as both SD & SW.
+This represents 0.83 % of the overall SWAN files.
+88 files with no clicks detected.
+This represents 24.44 % of the overall SWAN files.
+37 files with no labels.
+This represents 10.28 % of the overall SWAN files.

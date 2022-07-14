@@ -1,0 +1,134 @@
+######     Analysis and classification for each file in the dataset     ######
+
+file : Stenella_clicks_long_buzzes_and_some_whistles001.wav with 11 clicks, ratio = 31 & whistles detected => Both.
+file : Stenella_clicks_long_buzzes_and_some_whistles002.wav with 32 clicks, ratio = 205 & NO whistles detected => SW.
+file : Stenella_clicks_long_buzzes_and_some_whistles003.wav with 30 clicks, ratio = 45 & NO whistles detected => SW.
+file : Stenella_clicks_long_buzzes_and_some_whistles004.wav with 11 clicks, ratio = 53 & NO whistles detected => SW.
+file : Stenella_clicks_long_buzzes_and_some_whistles005.wav with 15 clicks, ratio = 88 & whistles detected => Both.
+file : Stenella_clicks_long_buzzes_and_some_whistles006.wav with 17 clicks, ratio = 76 & NO whistles detected => SW.
+file : Stenella_clicks_long_buzzes_and_some_whistles007.wav with 9 clicks, ratio = 24 & whistles detected => Both.
+file : Stenella_clicks_long_buzzes_and_some_whistles009.wav with 17 clicks, ratio = 61 & NO whistles detected => SW.
+file : Stenella_clicks_long_buzzes_and_some_whistles010.wav with 10 clicks, ratio = 91 & NO whistles detected => SW.
+file : Stenella_clicks_long_buzzes_and_some_whistles011.wav with 11 clicks, ratio = 110 & whistles detected => Both.
+file : Stenella_clicks_long_buzzes_and_some_whistles012.wav with 11 clicks, ratio = 67 & NO whistles detected => SW.
+file : Stenella_clicks_long_buzzes_and_some_whistles013.wav with 19 clicks, ratio = 46 & whistles detected => Both.
+file : Stenella_clicks_long_buzzes_and_some_whistles014.wav with 24 clicks, ratio = 36 & NO whistles detected => SW.
+file : Stenella_clicks_long_buzzes_and_some_whistles015.wav with 3 clicks, ratio = 25 & NO whistles detected => SW.
+file : Stenella_clicks_long_buzzes_and_some_whistles016.wav with 8 clicks, ratio = 61 & NO whistles detected => SW.
+file : Stenella_clicks_long_buzzes_and_some_whistles017.wav with 11 clicks, ratio = 85 & whistles detected => Both.
+file : Stenella_clicks_long_buzzes_and_some_whistles018.wav with 5 clicks, ratio = 40 & NO whistles detected => SW.
+file : Stenella_clicks_long_buzzes_and_some_whistles019.wav with 8 clicks, ratio = 63 & whistles detected => Both.
+file : Stenella_clicks_long_buzzes_and_some_whistles020.wav with 4 clicks, ratio = 4 & whistles detected => SD.
+file : Stenella_clicks_long_buzzes_and_some_whistles021.wav with 6 clicks, ratio = 44 & NO whistles detected => SW.
+file : Stenella_clicks_long_buzzes_and_some_whistles022.wav with 9 clicks, ratio = 39 & whistles detected => Both.
+file : Stenella_clicks_long_buzzes_and_some_whistles023.wav with 16 clicks, ratio = 21 & NO whistles detected => SW.
+file : Stenella_clicks_long_buzzes_and_some_whistles025.wav with no labels => Unclassified.
+file : Stenella_clicks_long_buzzes_and_some_whistles026.wav with no clicks detected => Not detected.
+file : Stenella_clicks_long_buzzes_and_some_whistles027.wav with 2 clicks, ratio = 10 & NO whistles detected => SW.
+file : Stenella_clicks_long_buzzes_and_some_whistles028.wav with no clicks detected => Not detected.
+file : Stenella_clicks_long_buzzes_and_some_whistles029.wav with no labels => Unclassified.
+file : Stenella_clicks_long_buzzes_and_some_whistles030.wav with no clicks detected => Not detected.
+file : Stenella_clicks_long_buzzes_and_some_whistles031.wav with 3 clicks, ratio = 7 & NO whistles detected => SD.
+file : Stenella_clicks_long_buzzes_and_some_whistles032.wav with 31 clicks, ratio = 45 & NO whistles detected => SW.
+file : Stenella_clicks_long_buzzes_and_some_whistles033.wav with 53 clicks, ratio = 59 & whistles detected => Both.
+file : Stenella_clicks_long_buzzes_and_some_whistles036.wav with 92 clicks, ratio = 243 & whistles detected => Both.
+file : Stenella_clicks_long_buzzes_and_some_whistles037.wav with 111 clicks, ratio = 255 & NO whistles detected => SW.
+file : Striped_Whistles001.wav with 105 clicks, ratio = 260 & NO whistles detected => SW.
+file : Striped_Whistles002.wav with 169 clicks, ratio = 324 & NO whistles detected => SW.
+file : Striped_Whistles003.wav with 248 clicks, ratio = 441 & NO whistles detected => SW.
+file : Striped_dolphin_whistles_new001.wav with 190 clicks, ratio = 123 & whistles detected => Both.
+file : Striped_dolphin_whistles_new002.wav with 145 clicks, ratio = 76 & NO whistles detected => SW.
+file : clicks_and_some_whistles_Rec20140824_160302001.wav with 157 clicks, ratio = 124 & NO whistles detected => SW.
+file : clicks_and_some_whistles_Rec20140824_160302002.wav with 126 clicks, ratio = 244 & whistles detected => Both.
+file : clicks_and_some_whistles_Rec20140824_160302003.wav with 125 clicks, ratio = 475 & NO whistles detected => SW.
+file : clicks_and_some_whistles_Rec20140824_160302004.wav with 141 clicks, ratio = 437 & NO whistles detected => SW.
+file : clicks_and_some_whistles_Rec20140824_160302005.wav with 80 clicks, ratio = 290 & NO whistles detected => SW.
+file : clicks_and_some_whistles_Rec20140824_160302006.wav with 76 clicks, ratio = 560 & NO whistles detected => SW.
+file : clicks_and_some_whistles_Rec20140824_160302007.wav with 82 clicks, ratio = 177 & whistles detected => Both.
+file : clicks_and_some_whistles_Rec20140824_160302008.wav with 108 clicks, ratio = 298 & whistles detected => Both.
+file : clicks_and_some_whistles_Rec20140824_160302009.wav with 81 clicks, ratio = 73 & NO whistles detected => SW.
+file : clicks_and_some_whistles_Rec20140824_160302010.wav with 117 clicks, ratio = 317 & whistles detected => Both.
+file : clicks_and_some_whistles_Rec20140824_160302011.wav with 172 clicks, ratio = 446 & NO whistles detected => SW.
+file : clicks_and_some_whistles_Rec20140824_160302012.wav with 159 clicks, ratio = 446 & NO whistles detected => SW.
+file : clicks_and_some_whistles_Rec20140824_160302013.wav with 155 clicks, ratio = 253 & NO whistles detected => SW.
+file : clicks_and_some_whistles_Rec20140824_160302014.wav with 300 clicks, ratio = 1154 & NO whistles detected => SW.
+file : clicks_and_some_whistles_Rec20140824_160302015.wav with 118 clicks, ratio = 313 & whistles detected => Both.
+file : clicks_and_some_whistles_Rec20140824_160302016.wav with 117 clicks, ratio = 45 & NO whistles detected => SW.
+file : clicks_and_some_whistles_Rec20140824_160302017.wav with 125 clicks, ratio = 125 & NO whistles detected => SW.
+file : clicks_and_some_whistles_Rec20140824_160302018.wav with 149 clicks, ratio = 265 & NO whistles detected => SW.
+file : clicks_and_some_whistles_Rec20140824_160302019.wav with 136 clicks, 11 SD_strong_label & 12 SW_strong_label & NO whistles detected => Both.
+file : clicks_and_some_whistles_Rec20140824_160302020.wav with 177 clicks, ratio = 220 & whistles detected => Both.
+file : clicks_and_some_whistles_Rec20140824_160302021.wav with 145 clicks, ratio = 108 & whistles detected => Both.
+file : clicks_and_some_whistles_Rec20140824_160302022.wav with 183 clicks, ratio = 188 & whistles detected => Both.
+file : clicks_and_some_whistles_Rec20140824_160302023.wav with 190 clicks, 5 SD_strong_label & 6 SW_strong_label & whistles detected => Both.
+file : clicks_and_some_whistles_Rec20140824_160302024.wav with 156 clicks, ratio = 222 & whistles detected => Both.
+file : clicks_and_some_whistles_Rec20140824_160302025.wav with 1 clicks, ratio = 4 & whistles detected => SD.
+file : clicks_and_some_whistles_Rec20140824_160302026.wav with no clicks detected => Not detected.
+file : faint_clicks_and_boat_Rec20200730_142241001.wav with no labels => Unclassified.
+file : faint_clicks_and_boat_Rec20200730_142241003.wav with 6 clicks, ratio = 15 & NO whistles detected => SW.
+file : faint_clicks_and_boat_Rec20200730_142241008.wav with 5 clicks, ratio = 9 & whistles detected => Both.
+file : whistles_Rec20140823_160059001.wav with 7 clicks, ratio = 12 & NO whistles detected => SW.
+file : whistles_Rec20140823_160059002.wav with 13 clicks, ratio = 24 & NO whistles detected => SW.
+file : whistles_Rec20140823_160059003.wav with no clicks detected => Not detected.
+file : whistles_Rec20140823_160059004.wav with 7 clicks, ratio = 48 & whistles detected => Both.
+file : whistles_Rec20140823_160059005.wav with 4 clicks, ratio = 33 & whistles detected => Both.
+file : whistles_Rec20140823_160059006.wav with 4 clicks, ratio = 18 & whistles detected => Both.
+file : whistles_Rec20140823_160059007.wav with 19 clicks, ratio = 76 & whistles detected => Both.
+file : whistles_Rec20140823_160059008.wav with 2 clicks, ratio = 10 & NO whistles detected => SW.
+file : whistles_Rec20140823_160059009.wav with no clicks detected => Not detected.
+file : whistles_Rec20140823_160059010.wav with no clicks detected => Not detected.
+file : whistles_Rec20140823_160059011.wav with 1 clicks, ratio = 15 & NO whistles detected => SW.
+file : whistles_Rec20140823_160059012.wav with 6 clicks, ratio = 15 & NO whistles detected => SW.
+file : whistles_Rec20140823_160059013.wav with no labels => Unclassified.
+file : whistles_Rec20140902_110244001.wav with no labels => Unclassified.
+file : whistles_Rec20140902_110244002.wav with no labels => Unclassified.
+file : whistles_Rec20140904_101500001.wav with no clicks detected => Not detected.
+file : whistles_Rec20140904_101500002.wav with no clicks detected => Not detected.
+file : whistles_Rec20140904_101500003.wav with no labels => Unclassified.
+file : whistles_Rec20140904_101500004.wav with 1 clicks, ratio = 10 & NO whistles detected => SW.
+file : whistles_Rec20140904_101500005.wav with no clicks detected => Not detected.
+file : whistles_Rec20140904_101500006.wav with 1 clicks, ratio = 10 & whistles detected => Both.
+file : whistles_Rec20140904_101500007.wav with no labels => Unclassified.
+file : whistles_Rec20140904_101500008.wav with no clicks detected => Not detected.
+file : whistles_Rec20140904_101500009.wav with no labels => Unclassified.
+file : whistles_and_few_clicks_Rec20140904_111333001.wav with no labels => Unclassified.
+file : whistles_and_few_clicks_Rec20140904_111333002.wav with 4 clicks, ratio = 24 & NO whistles detected => SW.
+file : whistles_and_few_clicks_Rec20140904_111333004.wav with 4 clicks, ratio = 21 & whistles detected => Both.
+file : whistles_and_few_clicks_Rec20140904_111333005.wav with no clicks detected => Not detected.
+file : whistles_and_few_clicks_Rec20140904_111333006.wav with no clicks detected => Not detected.
+file : whistles_and_few_clicks_Rec20140904_111333007.wav with no clicks detected => Not detected.
+file : whistles_and_few_clicks_Rec20140904_111333008.wav with no clicks detected => Not detected.
+file : whistles_and_few_clicks_Rec20140904_111333009.wav with 1 clicks, ratio = 10 & NO whistles detected => SW.
+file : whistles_and_few_clicks_Rec20140904_111333010.wav with no clicks detected => Not detected.
+file : whistles_and_few_clicks_Rec20140904_111333011.wav with no labels => Unclassified.
+file : whistles_and_few_clicks_Rec20140904_111333012.wav with no clicks detected => Not detected.
+file : whistles_and_few_clicks_Rec20140904_111333013.wav with no clicks detected => Not detected.
+
+######     Overall results     ######
+
+Global results New_whistles files.
+
+Score Striped Dolphins.
+
+0 SD with high confidence
+0 SD with medium confidence
+3 SD with low confidence
+3 files classified as SD.
+This represents 2.91 % of the overall New_whistles files.
+
+Score Sperm Whales.
+
+0 SW with high confidence
+34 SW with medium confidence
+8 SW with low confidence
+42 files classified as SW.
+This represents 40.78 % of the overall New_whistles files.
+
+Score others.
+
+29 files classified as both SD & SW.
+This represents 28.16 % of the overall New_whistles files.
+18 files with no clicks detected.
+This represents 17.48 % of the overall New_whistles files.
+11 files with no labels.
+This represents 10.68 % of the overall New_whistles files.
